@@ -1,114 +1,1367 @@
 [
     {
-        "Type":"Camper\/RV",
-        "Location":"Half Moon Bay",
+        "Type":"Home",
+        "Location":"Malibu",
+        "Beds":"5 ",
+        "Date":"2024-05-01",
+        "Price":"1,294"
+    },
+    {
+        "Type":"Farm stay",
+        "Location":"Martinez",
+        "Beds":"4 ",
+        "Date":"2024-05-01",
+        "Price":"315"
+    },
+    {
+        "Type":"Farm stay",
+        "Location":"Joshua Tree",
         "Beds":"2 ",
-        "Date":"2024\/08\/15",
-        "Price":"391"
+        "Date":"2024-05-01",
+        "Price":"173"
+    },
+    {
+        "Type":"Tiny home",
+        "Location":"Twentynine Palms",
+        "Beds":"2 ",
+        "Date":"2024-05-01",
+        "Price":"108"
+    },
+    {
+        "Type":"Condo",
+        "Location":"Whitethorn",
+        "Beds":"1 ",
+        "Date":"2024-05-01",
+        "Price":"315"
+    },
+    {
+        "Type":"Home",
+        "Location":"Joshua Tree",
+        "Beds":"3 ",
+        "Date":"2024-05-01",
+        "Price":"227"
+    },
+    {
+        "Type":"Cabin",
+        "Location":"Lake Arrowhead",
+        "Beds":"4 ",
+        "Date":"2024-05-01",
+        "Price":"239"
+    },
+    {
+        "Type":"Cabin",
+        "Location":"Mariposa",
+        "Beds":"7 ",
+        "Date":"2024-05-01",
+        "Price":"353"
+    },
+    {
+        "Type":"Tiny home",
+        "Location":"Joshua Tree",
+        "Beds":"2 ",
+        "Date":"2024-05-01",
+        "Price":"133"
+    },
+    {
+        "Type":"Home",
+        "Location":"Kelseyville",
+        "Beds":"4 ",
+        "Date":"2024-05-01",
+        "Price":"207"
+    },
+    {
+        "Type":"Cabin",
+        "Location":"Shaver Lake",
+        "Beds":"3 ",
+        "Date":"2024-05-01",
+        "Price":"218"
+    },
+    {
+        "Type":"Cabin",
+        "Location":"Big Bear Lake",
+        "Beds":"3 ",
+        "Date":"2024-05-01",
+        "Price":"142"
+    },
+    {
+        "Type":"Cabin",
+        "Location":"Big Bear",
+        "Beds":"1 ",
+        "Date":"2024-05-01",
+        "Price":"124"
+    },
+    {
+        "Type":"Cabin",
+        "Location":"Big Bear Lake",
+        "Beds":"4 ",
+        "Date":"2024-05-01",
+        "Price":"179"
+    },
+    {
+        "Type":"Cabin",
+        "Location":"Big Bear",
+        "Beds":"3 ",
+        "Date":"2024-05-01",
+        "Price":"169"
+    },
+    {
+        "Type":"Cabin",
+        "Location":"Alta",
+        "Beds":"3 ",
+        "Date":"2024-05-01",
+        "Price":"212"
+    },
+    {
+        "Type":"Tiny home",
+        "Location":"Albion",
+        "Beds":"2 ",
+        "Date":"2024-05-01",
+        "Price":"142"
+    },
+    {
+        "Type":"Home",
+        "Location":"Palm Springs",
+        "Beds":"5 ",
+        "Date":"2024-05-01",
+        "Price":"343"
     },
     {
         "Type":"Home",
         "Location":"Malibu",
         "Beds":"5 ",
-        "Date":"2024\/08\/15",
-        "Price":"1,783"
-    },
-    {
-        "Type":"Home",
-        "Location":"Joshua Tree",
-        "Beds":"4 ",
-        "Date":"2024\/08\/15",
-        "Price":"138"
+        "Date":"2024-06-01",
+        "Price":"1,628"
     },
     {
         "Type":"Farm stay",
         "Location":"La Grange",
         "Beds":"1 ",
-        "Date":"2024\/08\/15",
-        "Price":"190"
-    },
-    {
-        "Type":"Farm stay",
-        "Location":"Martinez",
-        "Beds":"2 ",
-        "Date":"2024\/08\/15",
-        "Price":"337"
+        "Date":"2024-06-01",
+        "Price":"210"
     },
     {
         "Type":"Condo",
         "Location":"Whitethorn",
-        "Beds":"8 ",
-        "Date":"2024\/08\/15",
-        "Price":"492"
+        "Beds":"2 ",
+        "Date":"2024-06-01",
+        "Price":"450"
+    },
+    {
+        "Type":"Condo",
+        "Location":"Whitethorn",
+        "Beds":"2 ",
+        "Date":"2024-06-01",
+        "Price":"315"
     },
     {
         "Type":"Condo",
         "Location":"Whitethorn",
         "Beds":"1 ",
-        "Date":"2024\/08\/15",
-        "Price":"334"
+        "Date":"2024-06-01",
+        "Price":"315"
     },
     {
         "Type":"Home",
-        "Location":"Ione",
-        "Beds":"3 ",
-        "Date":"2024\/08\/15",
-        "Price":"266"
+        "Location":"Joshua Tree",
+        "Beds":"1 ",
+        "Date":"2024-06-01",
+        "Price":"259"
     },
     {
         "Type":"Farm stay",
         "Location":"Angels Camp",
         "Beds":"1 ",
-        "Date":"2024\/08\/15",
+        "Date":"2024-06-01",
         "Price":"165"
-    },
-    {
-        "Type":"Home",
-        "Location":"Joshua Tree",
-        "Beds":"4 ",
-        "Date":"2024\/08\/15",
-        "Price":"375"
     },
     {
         "Type":"Guest suite",
         "Location":"Tiburon",
-        "Beds":"3 ",
-        "Date":"2024\/08\/15",
-        "Price":"708"
+        "Beds":"2 ",
+        "Date":"2024-06-01",
+        "Price":"675"
+    },
+    {
+        "Type":"Tiny home",
+        "Location":"Twentynine Palms",
+        "Beds":"4 ",
+        "Date":"2024-06-01",
+        "Price":"112"
     },
     {
         "Type":"Home",
         "Location":"Yucca Valley",
         "Beds":"3 ",
-        "Date":"2024\/08\/15",
-        "Price":"406"
+        "Date":"2024-06-01",
+        "Price":"450"
     },
     {
         "Type":"Home",
         "Location":"Joshua Tree",
         "Beds":"3 ",
-        "Date":"2024\/08\/15",
-        "Price":"192"
+        "Date":"2024-06-01",
+        "Price":"198"
+    },
+    {
+        "Type":"Home",
+        "Location":"29 Palms",
+        "Beds":"4 ",
+        "Date":"2024-06-01",
+        "Price":"230"
+    },
+    {
+        "Type":"Home",
+        "Location":"Sanger",
+        "Beds":"1 ",
+        "Date":"2024-06-01",
+        "Price":"553"
+    },
+    {
+        "Type":"Tiny home",
+        "Location":"Topanga",
+        "Beds":"4 ",
+        "Date":"2024-06-01",
+        "Price":"223"
+    },
+    {
+        "Type":"Cabin",
+        "Location":"Lake Arrowhead",
+        "Beds":"1 ",
+        "Date":"2024-06-01",
+        "Price":"255"
+    },
+    {
+        "Type":"Yurt",
+        "Location":"Idyllwild-Pine Cove",
+        "Beds":"3 ",
+        "Date":"2024-06-01",
+        "Price":"143"
+    },
+    {
+        "Type":"Tiny home",
+        "Location":"Joshua Tree",
+        "Beds":"3 ",
+        "Date":"2024-06-01",
+        "Price":"116"
+    },
+    {
+        "Type":"Home",
+        "Location":"Malibu",
+        "Beds":"5 ",
+        "Date":"2024-07-01",
+        "Price":"1,783"
+    },
+    {
+        "Type":"Farm stay",
+        "Location":"La Grange",
+        "Beds":"3 ",
+        "Date":"2024-07-01",
+        "Price":"261"
+    },
+    {
+        "Type":"Home",
+        "Location":"Joshua Tree",
+        "Beds":"1 ",
+        "Date":"2024-07-01",
+        "Price":"779"
+    },
+    {
+        "Type":"Home",
+        "Location":"Joshua Tree",
+        "Beds":"8 ",
+        "Date":"2024-07-01",
+        "Price":"273"
+    },
+    {
+        "Type":"Home",
+        "Location":"Ione",
+        "Beds":"1 ",
+        "Date":"2024-07-01",
+        "Price":"263"
+    },
+    {
+        "Type":"Farm stay",
+        "Location":"Angels Camp",
+        "Beds":"1 ",
+        "Date":"2024-07-01",
+        "Price":"165"
+    },
+    {
+        "Type":"Guest suite",
+        "Location":"Tiburon",
+        "Beds":"4 ",
+        "Date":"2024-07-01",
+        "Price":"781"
     },
     {
         "Type":"Home",
         "Location":"Yucca Valley",
         "Beds":"3 ",
-        "Date":"2024\/08\/15",
-        "Price":"369"
+        "Date":"2024-07-01",
+        "Price":"466"
+    },
+    {
+        "Type":"Home",
+        "Location":"Joshua Tree",
+        "Beds":"3 ",
+        "Date":"2024-07-01",
+        "Price":"228"
     },
     {
         "Type":"Home",
         "Location":"29 Palms",
-        "Beds":"3 ",
-        "Date":"2024\/08\/15",
-        "Price":"272"
+        "Beds":"2 ",
+        "Date":"2024-07-01",
+        "Price":"312"
+    },
+    {
+        "Type":"Home",
+        "Location":"Pioneertown",
+        "Beds":"1 ",
+        "Date":"2024-07-01",
+        "Price":"256"
+    },
+    {
+        "Type":"Tiny home",
+        "Location":"Topanga",
+        "Beds":"4 ",
+        "Date":"2024-07-01",
+        "Price":"233"
+    },
+    {
+        "Type":"Home",
+        "Location":"Lake Arrowhead",
+        "Beds":"2 ",
+        "Date":"2024-07-01",
+        "Price":"208"
+    },
+    {
+        "Type":"Cabin",
+        "Location":"Arrowbear Lake",
+        "Beds":"2 ",
+        "Date":"2024-07-01",
+        "Price":"318"
+    },
+    {
+        "Type":"Home",
+        "Location":"Joshua Tree",
+        "Beds":"2 ",
+        "Date":"2024-07-01",
+        "Price":"325"
+    },
+    {
+        "Type":"Tiny home",
+        "Location":"Ahwahnee",
+        "Beds":"1 ",
+        "Date":"2024-07-01",
+        "Price":"363"
+    },
+    {
+        "Type":"Home",
+        "Location":"Joshua Tree",
+        "Beds":"1 ",
+        "Date":"2024-07-01",
+        "Price":"150"
     },
     {
         "Type":"Farm stay",
-        "Location":"Greenville",
+        "Location":"La Grange",
+        "Beds":"5 ",
+        "Date":"2024-09-01",
+        "Price":"190"
+    },
+    {
+        "Type":"Farm stay",
+        "Location":"Martinez",
+        "Beds":"4 ",
+        "Date":"2024-09-01",
+        "Price":"333"
+    },
+    {
+        "Type":"Cabin",
+        "Location":"Camp Connell",
+        "Beds":"4 ",
+        "Date":"2024-09-01",
+        "Price":"241"
+    },
+    {
+        "Type":"Home",
+        "Location":"Pioneertown",
+        "Beds":"2 ",
+        "Date":"2024-09-01",
+        "Price":"539"
+    },
+    {
+        "Type":"Home",
+        "Location":"Yucca Valley",
+        "Beds":"5 ",
+        "Date":"2024-09-01",
+        "Price":"386"
+    },
+    {
+        "Type":"Home",
+        "Location":"Joshua Tree",
+        "Beds":"1 ",
+        "Date":"2024-09-01",
+        "Price":"247"
+    },
+    {
+        "Type":"Farm stay",
+        "Location":"Angels Camp",
+        "Beds":"1 ",
+        "Date":"2024-09-01",
+        "Price":"165"
+    },
+    {
+        "Type":"Guest suite",
+        "Location":"Tiburon",
+        "Beds":"1 ",
+        "Date":"2024-09-01",
+        "Price":"721"
+    },
+    {
+        "Type":"Home",
+        "Location":"Yucca Valley",
+        "Beds":"4 ",
+        "Date":"2024-09-01",
+        "Price":"402"
+    },
+    {
+        "Type":"Home",
+        "Location":"Joshua Tree",
         "Beds":"3 ",
-        "Date":"2024\/08\/15",
-        "Price":"149"
+        "Date":"2024-09-01",
+        "Price":"201"
+    },
+    {
+        "Type":"Cabin",
+        "Location":"Yucca Valley",
+        "Beds":"1 ",
+        "Date":"2024-09-01",
+        "Price":"258"
+    },
+    {
+        "Type":"Home",
+        "Location":"Pioneertown",
+        "Beds":"2 ",
+        "Date":"2024-09-01",
+        "Price":"243"
+    },
+    {
+        "Type":"Home",
+        "Location":"Pioneertown",
+        "Beds":"4 ",
+        "Date":"2024-09-01",
+        "Price":"840"
+    },
+    {
+        "Type":"Apartment",
+        "Location":"Carmel Valley",
+        "Beds":"2 ",
+        "Date":"2024-09-01",
+        "Price":"238"
+    },
+    {
+        "Type":"Tiny home",
+        "Location":"Topanga",
+        "Beds":"1 ",
+        "Date":"2024-09-01",
+        "Price":"215"
+    },
+    {
+        "Type":"Cabin",
+        "Location":"Lake Arrowhead",
+        "Beds":"4 ",
+        "Date":"2024-09-01",
+        "Price":"277"
+    },
+    {
+        "Type":"Guest suite",
+        "Location":"Malibu",
+        "Beds":"1 ",
+        "Date":"2024-09-01",
+        "Price":"478"
+    },
+    {
+        "Type":"Home",
+        "Location":"Joshua Tree",
+        "Beds":"2 ",
+        "Date":"2024-09-01",
+        "Price":"606"
+    },
+    {
+        "Type":"Camper\/RV",
+        "Location":"Half Moon Bay",
+        "Beds":"2 ",
+        "Date":"2024-10-01",
+        "Price":"378"
+    },
+    {
+        "Type":"Home",
+        "Location":"Malibu",
+        "Beds":"5 ",
+        "Date":"2024-10-01",
+        "Price":"1,783"
+    },
+    {
+        "Type":"Home",
+        "Location":"Indio Hills",
+        "Beds":"10",
+        "Date":"2024-10-01",
+        "Price":"899"
+    },
+    {
+        "Type":"Condo",
+        "Location":"Whitethorn",
+        "Beds":"1 ",
+        "Date":"2024-10-01",
+        "Price":"492"
+    },
+    {
+        "Type":"Condo",
+        "Location":"Whitethorn",
+        "Beds":"2 ",
+        "Date":"2024-10-01",
+        "Price":"330"
+    },
+    {
+        "Type":"Home",
+        "Location":"Joshua Tree",
+        "Beds":"2 ",
+        "Date":"2024-10-01",
+        "Price":"217"
+    },
+    {
+        "Type":"Farm stay",
+        "Location":"Joshua Tree",
+        "Beds":"2 ",
+        "Date":"2024-10-01",
+        "Price":"233"
+    },
+    {
+        "Type":"Home",
+        "Location":"Yucca Valley",
+        "Beds":"2 ",
+        "Date":"2024-10-01",
+        "Price":"320"
+    },
+    {
+        "Type":"Home",
+        "Location":"Joshua Tree",
+        "Beds":"1 ",
+        "Date":"2024-10-01",
+        "Price":"283"
+    },
+    {
+        "Type":"Home",
+        "Location":"Ione",
+        "Beds":"8 ",
+        "Date":"2024-10-01",
+        "Price":"266"
+    },
+    {
+        "Type":"Cabin",
+        "Location":"Occidental",
+        "Beds":"3 ",
+        "Date":"2024-10-01",
+        "Price":"275"
+    },
+    {
+        "Type":"Villa",
+        "Location":"San Rafael",
+        "Beds":"4 ",
+        "Date":"2024-10-01",
+        "Price":"914"
+    },
+    {
+        "Type":"Home",
+        "Location":"Joshua Tree",
+        "Beds":"3 ",
+        "Date":"2024-10-01",
+        "Price":"234"
+    },
+    {
+        "Type":"Home",
+        "Location":"Pioneertown",
+        "Beds":"2 ",
+        "Date":"2024-10-01",
+        "Price":"274"
+    },
+    {
+        "Type":"Home",
+        "Location":"Pioneertown",
+        "Beds":"4 ",
+        "Date":"2024-10-01",
+        "Price":"842"
+    },
+    {
+        "Type":"Apartment",
+        "Location":"Carmel Valley",
+        "Beds":"2 ",
+        "Date":"2024-10-01",
+        "Price":"233"
+    },
+    {
+        "Type":"Home",
+        "Location":"Joshua Tree",
+        "Beds":"3 ",
+        "Date":"2024-10-01",
+        "Price":"457"
+    },
+    {
+        "Type":"Guest suite",
+        "Location":"Malibu",
+        "Beds":"1 ",
+        "Date":"2024-10-01",
+        "Price":"478"
+    },
+    {
+        "Type":"Home",
+        "Location":"Malibu",
+        "Beds":"5 ",
+        "Date":"2024-11-01",
+        "Price":"1,783"
+    },
+    {
+        "Type":"Home",
+        "Location":"Los Angeles County",
+        "Beds":"6 ",
+        "Date":"2024-11-01",
+        "Price":"786"
+    },
+    {
+        "Type":"Home",
+        "Location":"Joshua Tree",
+        "Beds":"2 ",
+        "Date":"2024-11-01",
+        "Price":"178"
+    },
+    {
+        "Type":"Farm stay",
+        "Location":"La Grange",
+        "Beds":"5 ",
+        "Date":"2024-11-01",
+        "Price":"190"
+    },
+    {
+        "Type":"Condo",
+        "Location":"Whitethorn",
+        "Beds":"1 ",
+        "Date":"2024-11-01",
+        "Price":"492"
+    },
+    {
+        "Type":"Condo",
+        "Location":"Whitethorn",
+        "Beds":"2 ",
+        "Date":"2024-11-01",
+        "Price":"322"
+    },
+    {
+        "Type":"Home",
+        "Location":"Yucca Valley",
+        "Beds":"2 ",
+        "Date":"2024-11-01",
+        "Price":"385"
+    },
+    {
+        "Type":"Cabin",
+        "Location":"Occidental",
+        "Beds":"3 ",
+        "Date":"2024-11-01",
+        "Price":"275"
+    },
+    {
+        "Type":"Apartment",
+        "Location":"Carmel Valley",
+        "Beds":"2 ",
+        "Date":"2024-11-01",
+        "Price":"238"
+    },
+    {
+        "Type":"Home",
+        "Location":"Joshua Tree",
+        "Beds":"2 ",
+        "Date":"2024-11-01",
+        "Price":"553"
+    },
+    {
+        "Type":"Cabin",
+        "Location":"Mariposa",
+        "Beds":"7 ",
+        "Date":"2024-11-01",
+        "Price":"371"
+    },
+    {
+        "Type":"Ranch",
+        "Location":"Tracy",
+        "Beds":"5 ",
+        "Date":"2024-11-01",
+        "Price":"1,081"
+    },
+    {
+        "Type":"Home",
+        "Location":"Glendale",
+        "Beds":"4 ",
+        "Date":"2024-11-01",
+        "Price":"374"
+    },
+    {
+        "Type":"Home",
+        "Location":"Kelseyville",
+        "Beds":"4 ",
+        "Date":"2024-11-01",
+        "Price":"333"
+    },
+    {
+        "Type":"Home",
+        "Location":"Lake Arrowhead",
+        "Beds":"4 ",
+        "Date":"2024-11-01",
+        "Price":"208"
+    },
+    {
+        "Type":"Guest suite",
+        "Location":"View Park-Windsor Hills",
+        "Beds":"2 ",
+        "Date":"2024-11-01",
+        "Price":"133"
+    },
+    {
+        "Type":"Tiny home",
+        "Location":"Fallbrook",
+        "Beds":"3 ",
+        "Date":"2024-11-01",
+        "Price":"139"
+    },
+    {
+        "Type":"Home",
+        "Location":"Malibu",
+        "Beds":"5 ",
+        "Date":"2024-12-01",
+        "Price":"1,783"
+    },
+    {
+        "Type":"Home",
+        "Location":"Lodi",
+        "Beds":"11",
+        "Date":"2024-12-01",
+        "Price":"1,809"
+    },
+    {
+        "Type":"Home",
+        "Location":"Los Angeles County",
+        "Beds":"6 ",
+        "Date":"2024-12-01",
+        "Price":"786"
+    },
+    {
+        "Type":"Home",
+        "Location":"Indio Hills",
+        "Beds":"10",
+        "Date":"2024-12-01",
+        "Price":"899"
+    },
+    {
+        "Type":"Condo",
+        "Location":"Whitethorn",
+        "Beds":"1 ",
+        "Date":"2024-12-01",
+        "Price":"496"
+    },
+    {
+        "Type":"Condo",
+        "Location":"Whitethorn",
+        "Beds":"2 ",
+        "Date":"2024-12-01",
+        "Price":"321"
+    },
+    {
+        "Type":"Home",
+        "Location":"Joshua Tree",
+        "Beds":"2 ",
+        "Date":"2024-12-01",
+        "Price":"187"
+    },
+    {
+        "Type":"Home",
+        "Location":"Joshua Tree",
+        "Beds":"1 ",
+        "Date":"2024-12-01",
+        "Price":"256"
+    },
+    {
+        "Type":"Home",
+        "Location":"Ione",
+        "Beds":"8 ",
+        "Date":"2024-12-01",
+        "Price":"266"
+    },
+    {
+        "Type":"Cabin",
+        "Location":"Occidental",
+        "Beds":"3 ",
+        "Date":"2024-12-01",
+        "Price":"275"
+    },
+    {
+        "Type":"Home",
+        "Location":"Yucca Valley",
+        "Beds":"4 ",
+        "Date":"2024-12-01",
+        "Price":"427"
+    },
+    {
+        "Type":"Home",
+        "Location":"Joshua Tree",
+        "Beds":"3 ",
+        "Date":"2024-12-01",
+        "Price":"212"
+    },
+    {
+        "Type":"Home",
+        "Location":"Pioneertown",
+        "Beds":"2 ",
+        "Date":"2024-12-01",
+        "Price":"247"
+    },
+    {
+        "Type":"Home",
+        "Location":"Pioneertown",
+        "Beds":"4 ",
+        "Date":"2024-12-01",
+        "Price":"758"
+    },
+    {
+        "Type":"Apartment",
+        "Location":"Carmel Valley",
+        "Beds":"2 ",
+        "Date":"2024-12-01",
+        "Price":"238"
+    },
+    {
+        "Type":"Home",
+        "Location":"Joshua Tree",
+        "Beds":"2 ",
+        "Date":"2024-12-01",
+        "Price":"593"
+    },
+    {
+        "Type":"Home",
+        "Location":"Clearlake",
+        "Beds":"12",
+        "Date":"2024-12-01",
+        "Price":"897"
+    },
+    {
+        "Type":"Home",
+        "Location":"Malibu",
+        "Beds":"4 ",
+        "Date":"2024-12-01",
+        "Price":"740"
+    },
+    {
+        "Type":"Home",
+        "Location":"Malibu",
+        "Beds":"5 ",
+        "Date":"2025-01-01",
+        "Price":"1,783"
+    },
+    {
+        "Type":"Home",
+        "Location":"Malibu",
+        "Beds":"3 ",
+        "Date":"2025-01-01",
+        "Price":"1,041"
+    },
+    {
+        "Type":"Home",
+        "Location":"Los Angeles County",
+        "Beds":"6 ",
+        "Date":"2025-01-01",
+        "Price":"786"
+    },
+    {
+        "Type":"Condo",
+        "Location":"Whitethorn",
+        "Beds":"2 ",
+        "Date":"2025-01-01",
+        "Price":"323"
+    },
+    {
+        "Type":"Home",
+        "Location":"Yucca Valley",
+        "Beds":"5 ",
+        "Date":"2025-01-01",
+        "Price":"421"
+    },
+    {
+        "Type":"Home",
+        "Location":"Joshua Tree",
+        "Beds":"3 ",
+        "Date":"2025-01-01",
+        "Price":"301"
+    },
+    {
+        "Type":"Home",
+        "Location":"Sebastopol",
+        "Beds":"4 ",
+        "Date":"2025-01-01",
+        "Price":"857"
+    },
+    {
+        "Type":"Cabin",
+        "Location":"Mariposa",
+        "Beds":"7 ",
+        "Date":"2025-01-01",
+        "Price":"342"
+    },
+    {
+        "Type":"Home",
+        "Location":"Kelseyville",
+        "Beds":"4 ",
+        "Date":"2025-01-01",
+        "Price":"333"
+    },
+    {
+        "Type":"Home",
+        "Location":"Lake Arrowhead",
+        "Beds":"4 ",
+        "Date":"2025-01-01",
+        "Price":"208"
+    },
+    {
+        "Type":"Guest suite",
+        "Location":"View Park-Windsor Hills",
+        "Beds":"2 ",
+        "Date":"2025-01-01",
+        "Price":"133"
+    },
+    {
+        "Type":"Home",
+        "Location":"Desert Hot Springs",
+        "Beds":"11",
+        "Date":"2025-01-01",
+        "Price":"880"
+    },
+    {
+        "Type":"Home",
+        "Location":"Joshua Tree",
+        "Beds":"3 ",
+        "Date":"2025-01-01",
+        "Price":"255"
+    },
+    {
+        "Type":"Cabin",
+        "Location":"Joshua Tree",
+        "Beds":"2 ",
+        "Date":"2025-01-01",
+        "Price":"185"
+    },
+    {
+        "Type":"Villa",
+        "Location":"Escondido",
+        "Beds":"10",
+        "Date":"2025-01-01",
+        "Price":"835"
+    },
+    {
+        "Type":"Home",
+        "Location":"South Lake Tahoe",
+        "Beds":"7 ",
+        "Date":"2025-01-01",
+        "Price":"710"
+    },
+    {
+        "Type":"Home",
+        "Location":"Orange County",
+        "Beds":"5 ",
+        "Date":"2025-01-01",
+        "Price":"509"
+    },
+    {
+        "Type":"Home",
+        "Location":"Whitethorn",
+        "Beds":"3 ",
+        "Date":"2025-01-01",
+        "Price":"123"
+    },
+    {
+        "Type":"Home",
+        "Location":"Los Angeles County",
+        "Beds":"6 ",
+        "Date":"2025-02-01",
+        "Price":"786"
+    },
+    {
+        "Type":"Farm stay",
+        "Location":"La Grange",
+        "Beds":"5 ",
+        "Date":"2025-02-01",
+        "Price":"190"
+    },
+    {
+        "Type":"Condo",
+        "Location":"Whitethorn",
+        "Beds":"2 ",
+        "Date":"2025-02-01",
+        "Price":"319"
+    },
+    {
+        "Type":"Home",
+        "Location":"Joshua Tree",
+        "Beds":"2 ",
+        "Date":"2025-02-01",
+        "Price":"211"
+    },
+    {
+        "Type":"Home",
+        "Location":"Yucca Valley",
+        "Beds":"5 ",
+        "Date":"2025-02-01",
+        "Price":"363"
+    },
+    {
+        "Type":"Home",
+        "Location":"Joshua Tree",
+        "Beds":"1 ",
+        "Date":"2025-02-01",
+        "Price":"310"
+    },
+    {
+        "Type":"Home",
+        "Location":"Joshua Tree",
+        "Beds":"3 ",
+        "Date":"2025-02-01",
+        "Price":"257"
+    },
+    {
+        "Type":"Home",
+        "Location":"Pioneertown",
+        "Beds":"2 ",
+        "Date":"2025-02-01",
+        "Price":"325"
+    },
+    {
+        "Type":"Apartment",
+        "Location":"Carmel Valley",
+        "Beds":"2 ",
+        "Date":"2025-02-01",
+        "Price":"231"
+    },
+    {
+        "Type":"Home",
+        "Location":"Sebastopol",
+        "Beds":"4 ",
+        "Date":"2025-02-01",
+        "Price":"682"
+    },
+    {
+        "Type":"Home",
+        "Location":"Joshua Tree",
+        "Beds":"3 ",
+        "Date":"2025-02-01",
+        "Price":"530"
+    },
+    {
+        "Type":"Home",
+        "Location":"Joshua Tree",
+        "Beds":"2 ",
+        "Date":"2025-02-01",
+        "Price":"553"
+    },
+    {
+        "Type":"Cabin",
+        "Location":"Mariposa",
+        "Beds":"7 ",
+        "Date":"2025-02-01",
+        "Price":"342"
+    },
+    {
+        "Type":"Home",
+        "Location":"Glendale",
+        "Beds":"4 ",
+        "Date":"2025-02-01",
+        "Price":"600"
+    },
+    {
+        "Type":"Home",
+        "Location":"Lake Arrowhead",
+        "Beds":"4 ",
+        "Date":"2025-02-01",
+        "Price":"208"
+    },
+    {
+        "Type":"Guest suite",
+        "Location":"View Park-Windsor Hills",
+        "Beds":"2 ",
+        "Date":"2025-02-01",
+        "Price":"133"
+    },
+    {
+        "Type":"Home",
+        "Location":"Desert Hot Springs",
+        "Beds":"11",
+        "Date":"2025-02-01",
+        "Price":"829"
+    },
+    {
+        "Type":"Cabin",
+        "Location":"Palomar Mountain",
+        "Beds":"3 ",
+        "Date":"2025-02-01",
+        "Price":"258"
+    },
+    {
+        "Type":"Home",
+        "Location":"Los Angeles County",
+        "Beds":"6 ",
+        "Date":"2025-03-01",
+        "Price":"786"
+    },
+    {
+        "Type":"Farm stay",
+        "Location":"La Grange",
+        "Beds":"5 ",
+        "Date":"2025-03-01",
+        "Price":"190"
+    },
+    {
+        "Type":"Condo",
+        "Location":"Whitethorn",
+        "Beds":"2 ",
+        "Date":"2025-03-01",
+        "Price":"322"
+    },
+    {
+        "Type":"Home",
+        "Location":"Yucca Valley",
+        "Beds":"5 ",
+        "Date":"2025-03-01",
+        "Price":"380"
+    },
+    {
+        "Type":"Guest suite",
+        "Location":"Tiburon",
+        "Beds":"1 ",
+        "Date":"2025-03-01",
+        "Price":"710"
+    },
+    {
+        "Type":"Home",
+        "Location":"Joshua Tree",
+        "Beds":"3 ",
+        "Date":"2025-03-01",
+        "Price":"295"
+    },
+    {
+        "Type":"Home",
+        "Location":"Pioneertown",
+        "Beds":"2 ",
+        "Date":"2025-03-01",
+        "Price":"383"
+    },
+    {
+        "Type":"Apartment",
+        "Location":"Carmel Valley",
+        "Beds":"2 ",
+        "Date":"2025-03-01",
+        "Price":"232"
+    },
+    {
+        "Type":"Home",
+        "Location":"Sebastopol",
+        "Beds":"4 ",
+        "Date":"2025-03-01",
+        "Price":"704"
+    },
+    {
+        "Type":"Home",
+        "Location":"Topanga",
+        "Beds":"3 ",
+        "Date":"2025-03-01",
+        "Price":"732"
+    },
+    {
+        "Type":"Home",
+        "Location":"Joshua Tree",
+        "Beds":"3 ",
+        "Date":"2025-03-01",
+        "Price":"568"
+    },
+    {
+        "Type":"Guesthouse",
+        "Location":"Malibu",
+        "Beds":"2 ",
+        "Date":"2025-03-01",
+        "Price":"504"
+    },
+    {
+        "Type":"Home",
+        "Location":"Joshua Tree",
+        "Beds":"2 ",
+        "Date":"2025-03-01",
+        "Price":"553"
+    },
+    {
+        "Type":"Home",
+        "Location":"Clearlake",
+        "Beds":"12",
+        "Date":"2025-03-01",
+        "Price":"833"
+    },
+    {
+        "Type":"Cabin",
+        "Location":"Mariposa",
+        "Beds":"7 ",
+        "Date":"2025-03-01",
+        "Price":"353"
+    },
+    {
+        "Type":"Home",
+        "Location":"Glendale",
+        "Beds":"4 ",
+        "Date":"2025-03-01",
+        "Price":"600"
+    },
+    {
+        "Type":"Home",
+        "Location":"Lake Arrowhead",
+        "Beds":"4 ",
+        "Date":"2025-03-01",
+        "Price":"208"
+    },
+    {
+        "Type":"Guest suite",
+        "Location":"View Park-Windsor Hills",
+        "Beds":"2 ",
+        "Date":"2025-03-01",
+        "Price":"133"
+    },
+    {
+        "Type":"Home",
+        "Location":"Joshua Tree",
+        "Beds":"3 ",
+        "Date":"2025-04-01",
+        "Price":"3,411"
+    },
+    {
+        "Type":"Home",
+        "Location":"Malibu",
+        "Beds":"5 ",
+        "Date":"2025-04-01",
+        "Price":"1,667"
+    },
+    {
+        "Type":"Home",
+        "Location":"Los Angeles County",
+        "Beds":"6 ",
+        "Date":"2025-04-01",
+        "Price":"786"
+    },
+    {
+        "Type":"Treehouse",
+        "Location":"Occidental",
+        "Beds":"1 ",
+        "Date":"2025-04-01",
+        "Price":"799"
+    },
+    {
+        "Type":"Farm stay",
+        "Location":"La Grange",
+        "Beds":"5 ",
+        "Date":"2025-04-01",
+        "Price":"190"
+    },
+    {
+        "Type":"Cabin",
+        "Location":"Tahoma",
+        "Beds":"8 ",
+        "Date":"2025-04-01",
+        "Price":"1,187"
+    },
+    {
+        "Type":"Condo",
+        "Location":"Whitethorn",
+        "Beds":"2 ",
+        "Date":"2025-04-01",
+        "Price":"323"
+    },
+    {
+        "Type":"Home",
+        "Location":"Joshua Tree",
+        "Beds":"2 ",
+        "Date":"2025-04-01",
+        "Price":"297"
+    },
+    {
+        "Type":"Home",
+        "Location":"Yucca Valley",
+        "Beds":"5 ",
+        "Date":"2025-04-01",
+        "Price":"390"
+    },
+    {
+        "Type":"Guest suite",
+        "Location":"Tiburon",
+        "Beds":"1 ",
+        "Date":"2025-04-01",
+        "Price":"710"
+    },
+    {
+        "Type":"Home",
+        "Location":"Joshua Tree",
+        "Beds":"3 ",
+        "Date":"2025-04-01",
+        "Price":"293"
+    },
+    {
+        "Type":"Apartment",
+        "Location":"Carmel Valley",
+        "Beds":"2 ",
+        "Date":"2025-04-01",
+        "Price":"231"
+    },
+    {
+        "Type":"Boutique hotel",
+        "Location":"Whitethorn",
+        "Beds":"2 ",
+        "Date":"2025-04-01",
+        "Price":"281"
+    },
+    {
+        "Type":"Train",
+        "Location":"Cupertino",
+        "Beds":"3 ",
+        "Date":"2025-04-01",
+        "Price":"190"
+    },
+    {
+        "Type":"Guest suite",
+        "Location":"Malibu",
+        "Beds":"1 ",
+        "Date":"2025-04-01",
+        "Price":"478"
+    },
+    {
+        "Type":"Home",
+        "Location":"Clearlake",
+        "Beds":"12",
+        "Date":"2025-04-01",
+        "Price":"833"
+    },
+    {
+        "Type":"Home",
+        "Location":"Malibu",
+        "Beds":"4 ",
+        "Date":"2025-04-01",
+        "Price":"561"
+    },
+    {
+        "Type":"Cabin",
+        "Location":"Mariposa",
+        "Beds":"7 ",
+        "Date":"2025-04-01",
+        "Price":"367"
     }
 ]

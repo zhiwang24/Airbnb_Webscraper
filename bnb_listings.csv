@@ -1,17 +1,196 @@
 Type,Location,Beds,Date,Price
-Camper/RV,Half Moon Bay,2 ,2024/08/15,391
-Home,Malibu,5 ,2024/08/15,"1,783"
-Home,Joshua Tree,4 ,2024/08/15,138
-Farm stay,La Grange,1 ,2024/08/15,190
-Farm stay,Martinez,2 ,2024/08/15,337
-Condo,Whitethorn,8 ,2024/08/15,492
-Condo,Whitethorn,1 ,2024/08/15,334
-Home,Ione,3 ,2024/08/15,266
-Farm stay,Angels Camp,1 ,2024/08/15,165
-Home,Joshua Tree,4 ,2024/08/15,375
-Guest suite,Tiburon,3 ,2024/08/15,708
-Home,Yucca Valley,3 ,2024/08/15,406
-Home,Joshua Tree,3 ,2024/08/15,192
-Home,Yucca Valley,3 ,2024/08/15,369
-Home,29 Palms,3 ,2024/08/15,272
-Farm stay,Greenville,3 ,2024/08/15,149
+Home,Malibu,5 ,2024-05-01,"1,294"
+Farm stay,Martinez,4 ,2024-05-01,315
+Farm stay,Joshua Tree,2 ,2024-05-01,173
+Tiny home,Twentynine Palms,2 ,2024-05-01,108
+Condo,Whitethorn,1 ,2024-05-01,315
+Home,Joshua Tree,3 ,2024-05-01,227
+Cabin,Lake Arrowhead,4 ,2024-05-01,239
+Cabin,Mariposa,7 ,2024-05-01,353
+Tiny home,Joshua Tree,2 ,2024-05-01,133
+Home,Kelseyville,4 ,2024-05-01,207
+Cabin,Shaver Lake,3 ,2024-05-01,218
+Cabin,Big Bear Lake,3 ,2024-05-01,142
+Cabin,Big Bear,1 ,2024-05-01,124
+Cabin,Big Bear Lake,4 ,2024-05-01,179
+Cabin,Big Bear,3 ,2024-05-01,169
+Cabin,Alta,3 ,2024-05-01,212
+Tiny home,Albion,2 ,2024-05-01,142
+Home,Palm Springs,5 ,2024-05-01,343
+Home,Malibu,5 ,2024-06-01,"1,628"
+Farm stay,La Grange,1 ,2024-06-01,210
+Condo,Whitethorn,2 ,2024-06-01,450
+Condo,Whitethorn,2 ,2024-06-01,315
+Condo,Whitethorn,1 ,2024-06-01,315
+Home,Joshua Tree,1 ,2024-06-01,259
+Farm stay,Angels Camp,1 ,2024-06-01,165
+Guest suite,Tiburon,2 ,2024-06-01,675
+Tiny home,Twentynine Palms,4 ,2024-06-01,112
+Home,Yucca Valley,3 ,2024-06-01,450
+Home,Joshua Tree,3 ,2024-06-01,198
+Home,29 Palms,4 ,2024-06-01,230
+Home,Sanger,1 ,2024-06-01,553
+Tiny home,Topanga,4 ,2024-06-01,223
+Cabin,Lake Arrowhead,1 ,2024-06-01,255
+Yurt,Idyllwild-Pine Cove,3 ,2024-06-01,143
+Tiny home,Joshua Tree,3 ,2024-06-01,116
+Home,Malibu,5 ,2024-07-01,"1,783"
+Farm stay,La Grange,3 ,2024-07-01,261
+Home,Joshua Tree,1 ,2024-07-01,779
+Home,Joshua Tree,8 ,2024-07-01,273
+Home,Ione,1 ,2024-07-01,263
+Farm stay,Angels Camp,1 ,2024-07-01,165
+Guest suite,Tiburon,4 ,2024-07-01,781
+Home,Yucca Valley,3 ,2024-07-01,466
+Home,Joshua Tree,3 ,2024-07-01,228
+Home,29 Palms,2 ,2024-07-01,312
+Home,Pioneertown,1 ,2024-07-01,256
+Tiny home,Topanga,4 ,2024-07-01,233
+Home,Lake Arrowhead,2 ,2024-07-01,208
+Cabin,Arrowbear Lake,2 ,2024-07-01,318
+Home,Joshua Tree,2 ,2024-07-01,325
+Tiny home,Ahwahnee,1 ,2024-07-01,363
+Home,Joshua Tree,1 ,2024-07-01,150
+Farm stay,La Grange,5 ,2024-09-01,190
+Farm stay,Martinez,4 ,2024-09-01,333
+Cabin,Camp Connell,4 ,2024-09-01,241
+Home,Pioneertown,2 ,2024-09-01,539
+Home,Yucca Valley,5 ,2024-09-01,386
+Home,Joshua Tree,1 ,2024-09-01,247
+Farm stay,Angels Camp,1 ,2024-09-01,165
+Guest suite,Tiburon,1 ,2024-09-01,721
+Home,Yucca Valley,4 ,2024-09-01,402
+Home,Joshua Tree,3 ,2024-09-01,201
+Cabin,Yucca Valley,1 ,2024-09-01,258
+Home,Pioneertown,2 ,2024-09-01,243
+Home,Pioneertown,4 ,2024-09-01,840
+Apartment,Carmel Valley,2 ,2024-09-01,238
+Tiny home,Topanga,1 ,2024-09-01,215
+Cabin,Lake Arrowhead,4 ,2024-09-01,277
+Guest suite,Malibu,1 ,2024-09-01,478
+Home,Joshua Tree,2 ,2024-09-01,606
+Camper/RV,Half Moon Bay,2 ,2024-10-01,378
+Home,Malibu,5 ,2024-10-01,"1,783"
+Home,Indio Hills,10,2024-10-01,899
+Condo,Whitethorn,1 ,2024-10-01,492
+Condo,Whitethorn,2 ,2024-10-01,330
+Home,Joshua Tree,2 ,2024-10-01,217
+Farm stay,Joshua Tree,2 ,2024-10-01,233
+Home,Yucca Valley,2 ,2024-10-01,320
+Home,Joshua Tree,1 ,2024-10-01,283
+Home,Ione,8 ,2024-10-01,266
+Cabin,Occidental,3 ,2024-10-01,275
+Villa,San Rafael,4 ,2024-10-01,914
+Home,Joshua Tree,3 ,2024-10-01,234
+Home,Pioneertown,2 ,2024-10-01,274
+Home,Pioneertown,4 ,2024-10-01,842
+Apartment,Carmel Valley,2 ,2024-10-01,233
+Home,Joshua Tree,3 ,2024-10-01,457
+Guest suite,Malibu,1 ,2024-10-01,478
+Home,Malibu,5 ,2024-11-01,"1,783"
+Home,Los Angeles County,6 ,2024-11-01,786
+Home,Joshua Tree,2 ,2024-11-01,178
+Farm stay,La Grange,5 ,2024-11-01,190
+Condo,Whitethorn,1 ,2024-11-01,492
+Condo,Whitethorn,2 ,2024-11-01,322
+Home,Yucca Valley,2 ,2024-11-01,385
+Cabin,Occidental,3 ,2024-11-01,275
+Apartment,Carmel Valley,2 ,2024-11-01,238
+Home,Joshua Tree,2 ,2024-11-01,553
+Cabin,Mariposa,7 ,2024-11-01,371
+Ranch,Tracy,5 ,2024-11-01,"1,081"
+Home,Glendale,4 ,2024-11-01,374
+Home,Kelseyville,4 ,2024-11-01,333
+Home,Lake Arrowhead,4 ,2024-11-01,208
+Guest suite,View Park-Windsor Hills,2 ,2024-11-01,133
+Tiny home,Fallbrook,3 ,2024-11-01,139
+Home,Malibu,5 ,2024-12-01,"1,783"
+Home,Lodi,11,2024-12-01,"1,809"
+Home,Los Angeles County,6 ,2024-12-01,786
+Home,Indio Hills,10,2024-12-01,899
+Condo,Whitethorn,1 ,2024-12-01,496
+Condo,Whitethorn,2 ,2024-12-01,321
+Home,Joshua Tree,2 ,2024-12-01,187
+Home,Joshua Tree,1 ,2024-12-01,256
+Home,Ione,8 ,2024-12-01,266
+Cabin,Occidental,3 ,2024-12-01,275
+Home,Yucca Valley,4 ,2024-12-01,427
+Home,Joshua Tree,3 ,2024-12-01,212
+Home,Pioneertown,2 ,2024-12-01,247
+Home,Pioneertown,4 ,2024-12-01,758
+Apartment,Carmel Valley,2 ,2024-12-01,238
+Home,Joshua Tree,2 ,2024-12-01,593
+Home,Clearlake,12,2024-12-01,897
+Home,Malibu,4 ,2024-12-01,740
+Home,Malibu,5 ,2025-01-01,"1,783"
+Home,Malibu,3 ,2025-01-01,"1,041"
+Home,Los Angeles County,6 ,2025-01-01,786
+Condo,Whitethorn,2 ,2025-01-01,323
+Home,Yucca Valley,5 ,2025-01-01,421
+Home,Joshua Tree,3 ,2025-01-01,301
+Home,Sebastopol,4 ,2025-01-01,857
+Cabin,Mariposa,7 ,2025-01-01,342
+Home,Kelseyville,4 ,2025-01-01,333
+Home,Lake Arrowhead,4 ,2025-01-01,208
+Guest suite,View Park-Windsor Hills,2 ,2025-01-01,133
+Home,Desert Hot Springs,11,2025-01-01,880
+Home,Joshua Tree,3 ,2025-01-01,255
+Cabin,Joshua Tree,2 ,2025-01-01,185
+Villa,Escondido,10,2025-01-01,835
+Home,South Lake Tahoe,7 ,2025-01-01,710
+Home,Orange County,5 ,2025-01-01,509
+Home,Whitethorn,3 ,2025-01-01,123
+Home,Los Angeles County,6 ,2025-02-01,786
+Farm stay,La Grange,5 ,2025-02-01,190
+Condo,Whitethorn,2 ,2025-02-01,319
+Home,Joshua Tree,2 ,2025-02-01,211
+Home,Yucca Valley,5 ,2025-02-01,363
+Home,Joshua Tree,1 ,2025-02-01,310
+Home,Joshua Tree,3 ,2025-02-01,257
+Home,Pioneertown,2 ,2025-02-01,325
+Apartment,Carmel Valley,2 ,2025-02-01,231
+Home,Sebastopol,4 ,2025-02-01,682
+Home,Joshua Tree,3 ,2025-02-01,530
+Home,Joshua Tree,2 ,2025-02-01,553
+Cabin,Mariposa,7 ,2025-02-01,342
+Home,Glendale,4 ,2025-02-01,600
+Home,Lake Arrowhead,4 ,2025-02-01,208
+Guest suite,View Park-Windsor Hills,2 ,2025-02-01,133
+Home,Desert Hot Springs,11,2025-02-01,829
+Cabin,Palomar Mountain,3 ,2025-02-01,258
+Home,Los Angeles County,6 ,2025-03-01,786
+Farm stay,La Grange,5 ,2025-03-01,190
+Condo,Whitethorn,2 ,2025-03-01,322
+Home,Yucca Valley,5 ,2025-03-01,380
+Guest suite,Tiburon,1 ,2025-03-01,710
+Home,Joshua Tree,3 ,2025-03-01,295
+Home,Pioneertown,2 ,2025-03-01,383
+Apartment,Carmel Valley,2 ,2025-03-01,232
+Home,Sebastopol,4 ,2025-03-01,704
+Home,Topanga,3 ,2025-03-01,732
+Home,Joshua Tree,3 ,2025-03-01,568
+Guesthouse,Malibu,2 ,2025-03-01,504
+Home,Joshua Tree,2 ,2025-03-01,553
+Home,Clearlake,12,2025-03-01,833
+Cabin,Mariposa,7 ,2025-03-01,353
+Home,Glendale,4 ,2025-03-01,600
+Home,Lake Arrowhead,4 ,2025-03-01,208
+Guest suite,View Park-Windsor Hills,2 ,2025-03-01,133
+Home,Joshua Tree,3 ,2025-04-01,"3,411"
+Home,Malibu,5 ,2025-04-01,"1,667"
+Home,Los Angeles County,6 ,2025-04-01,786
+Treehouse,Occidental,1 ,2025-04-01,799
+Farm stay,La Grange,5 ,2025-04-01,190
+Cabin,Tahoma,8 ,2025-04-01,"1,187"
+Condo,Whitethorn,2 ,2025-04-01,323
+Home,Joshua Tree,2 ,2025-04-01,297
+Home,Yucca Valley,5 ,2025-04-01,390
+Guest suite,Tiburon,1 ,2025-04-01,710
+Home,Joshua Tree,3 ,2025-04-01,293
+Apartment,Carmel Valley,2 ,2025-04-01,231
+Boutique hotel,Whitethorn,2 ,2025-04-01,281
+Train,Cupertino,3 ,2025-04-01,190
+Guest suite,Malibu,1 ,2025-04-01,478
+Home,Clearlake,12,2025-04-01,833
+Home,Malibu,4 ,2025-04-01,561
+Cabin,Mariposa,7 ,2025-04-01,367
