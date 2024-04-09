@@ -1,0 +1,114 @@
+[
+    {
+        "Type":"Camper\/RV",
+        "Location":"Half Moon Bay",
+        "Beds":"2 ",
+        "Date":"2024\/08\/15",
+        "Price":"391"
+    },
+    {
+        "Type":"Home",
+        "Location":"Malibu",
+        "Beds":"5 ",
+        "Date":"2024\/08\/15",
+        "Price":"1,783"
+    },
+    {
+        "Type":"Home",
+        "Location":"Joshua Tree",
+        "Beds":"4 ",
+        "Date":"2024\/08\/15",
+        "Price":"138"
+    },
+    {
+        "Type":"Farm stay",
+        "Location":"La Grange",
+        "Beds":"1 ",
+        "Date":"2024\/08\/15",
+        "Price":"190"
+    },
+    {
+        "Type":"Farm stay",
+        "Location":"Martinez",
+        "Beds":"2 ",
+        "Date":"2024\/08\/15",
+        "Price":"337"
+    },
+    {
+        "Type":"Condo",
+        "Location":"Whitethorn",
+        "Beds":"8 ",
+        "Date":"2024\/08\/15",
+        "Price":"492"
+    },
+    {
+        "Type":"Condo",
+        "Location":"Whitethorn",
+        "Beds":"1 ",
+        "Date":"2024\/08\/15",
+        "Price":"334"
+    },
+    {
+        "Type":"Home",
+        "Location":"Ione",
+        "Beds":"3 ",
+        "Date":"2024\/08\/15",
+        "Price":"266"
+    },
+    {
+        "Type":"Farm stay",
+        "Location":"Angels Camp",
+        "Beds":"1 ",
+        "Date":"2024\/08\/15",
+        "Price":"165"
+    },
+    {
+        "Type":"Home",
+        "Location":"Joshua Tree",
+        "Beds":"4 ",
+        "Date":"2024\/08\/15",
+        "Price":"375"
+    },
+    {
+        "Type":"Guest suite",
+        "Location":"Tiburon",
+        "Beds":"3 ",
+        "Date":"2024\/08\/15",
+        "Price":"708"
+    },
+    {
+        "Type":"Home",
+        "Location":"Yucca Valley",
+        "Beds":"3 ",
+        "Date":"2024\/08\/15",
+        "Price":"406"
+    },
+    {
+        "Type":"Home",
+        "Location":"Joshua Tree",
+        "Beds":"3 ",
+        "Date":"2024\/08\/15",
+        "Price":"192"
+    },
+    {
+        "Type":"Home",
+        "Location":"Yucca Valley",
+        "Beds":"3 ",
+        "Date":"2024\/08\/15",
+        "Price":"369"
+    },
+    {
+        "Type":"Home",
+        "Location":"29 Palms",
+        "Beds":"3 ",
+        "Date":"2024\/08\/15",
+        "Price":"272"
+    },
+    {
+        "Type":"Farm stay",
+        "Location":"Greenville",
+        "Beds":"3 ",
+        "Date":"2024\/08\/15",
+        "Price":"149"
+    }
+]
